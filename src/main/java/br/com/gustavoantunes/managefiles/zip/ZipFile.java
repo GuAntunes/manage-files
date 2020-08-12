@@ -1,4 +1,4 @@
-package br.com.gustavoantunes.managefiles;
+package br.com.gustavoantunes.managefiles.zip;
 
 import java.io.File;
 import java.io.FileInputStream;

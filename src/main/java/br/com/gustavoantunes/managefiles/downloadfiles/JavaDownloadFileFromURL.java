@@ -1,4 +1,4 @@
-package br.com.gustavoantunes.managefiles;
+package br.com.gustavoantunes.managefiles.downloadfiles;
 
 import java.io.BufferedInputStream;
 import java.io.FileOutputStream;
